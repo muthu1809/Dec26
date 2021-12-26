@@ -4,3 +4,4 @@ maths = 100
 total = tamil + english + maths
 
 print(total)
+Ok good
